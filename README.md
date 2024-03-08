@@ -11,7 +11,7 @@ to download the text editor.
 -This project was created so that an icon will appear on the desktop for quicker user-accessibilty. 
 
 ## Screenshots
-![alt text](<../assets/J-A-T-E screenshot.png>)
+![alt text](<assets/J-A-T-E screenshot.png>)
 
 ## Link to deployed site
 https://young-wave-88595-56e8e88febd9.herokuapp.com/
