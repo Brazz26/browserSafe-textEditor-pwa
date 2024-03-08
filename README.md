@@ -12,6 +12,7 @@ to download the text editor.
 
 ## Screenshots
 ![alt text](<assets/J-A-T-E screenshot.png>)
+![alt text](<assets/DevTools - young-wave-88595-56e8e88febd9.herokuapp.com_ 3_7_2024 11_01_29 PM.png>)
 
 ## Link to deployed site
 https://young-wave-88595-56e8e88febd9.herokuapp.com/
